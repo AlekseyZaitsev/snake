@@ -1,0 +1,6 @@
+F:\Programming\Новая папка\Snake\Snake\bin\Debug\Snake.exe.config
+F:\Programming\Новая папка\Snake\Snake\bin\Debug\Snake.exe
+F:\Programming\Новая папка\Snake\Snake\bin\Debug\Snake.pdb
+F:\Programming\Новая папка\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+F:\Programming\Новая папка\Snake\Snake\obj\Debug\Snake.exe
+F:\Programming\Новая папка\Snake\Snake\obj\Debug\Snake.pdb
